@@ -1,0 +1,9 @@
+<form (submit)="addItem($event)">
+    <input name="item-name" [(ngModel)]="itemName">
+    <button type="submit">Add</button>
+</form>
+<ul>
+    <li *ngFor="let item of items | async">
+    {{ item.name }}
+    </li>
+</ul>

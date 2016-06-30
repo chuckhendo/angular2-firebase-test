@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/a7s14/Dev/tmp/angular-webpack/node_modules/angularfire2/firebase3.d.ts",
+    "raw": "file:node_modules/angularfire2/firebase3.d.ts",
+    "typings": "/Users/a7s14/Dev/tmp/angular-webpack/node_modules/angularfire2/firebase3.d.ts"
+  }
+}
